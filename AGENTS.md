@@ -646,9 +646,12 @@ If the commit succeeds but the push fails, preserve the local commit and report 
 
 The Markdown file under `past-volumes/` is the canonical version.
 
-After generation, provide the coverage through the active Hermes/Telegram interface when supported.
+After generation, deliver through the active Hermes/Telegram interface:
 
-If the interface has message-size limits, split the coverage cleanly by its major sections without changing the content or omitting citations.
+- a short digest: date, theme, topics covered, a concise summary of the day's lesson (normally 5-10 sentences), one or two sentences per key development, and a link to the volume on GitHub;
+- the delivery status described below.
+
+Do not paste the full coverage into the chat by default; the full article lives in the repository. If the user explicitly asks for the full text or a specific section in the conversation, provide it then, split cleanly by its major sections without changing the content or omitting citations.
 
 At minimum, the final delivery status should state:
 
@@ -666,6 +669,15 @@ Do not make the delivery status longer than necessary.
 # 18. Failure Handling
 
 A failed or partial run must not corrupt project state.
+
+**Whenever a run does not produce a complete daily coverage — a failure, a partial run, or an early stop such as curriculum-complete, a same-date duplicate, or a detected inconsistency — notify the user through the active Hermes/Telegram interface as the run's final message.** The notification must state:
+
+- what stage the run stopped at;
+- the reason, if known;
+- the repository state (volume file, `PROGRESS.md`, commit, push);
+- a suggested next step, if any.
+
+Never end a run silently.
 
 If research or generation fails before a complete coverage exists:
 
