@@ -14,3 +14,8 @@
 2026-09-09: HPL-1.3 covered.
 2026-09-09: HPL-1.4 covered.
 2026-09-09: HPL-1.5 covered.
+2026-09-10: PERF-1.1 covered.
+2026-09-10: PERF-1.2 covered.
+2026-09-10: PERF-1.3 covered.
+2026-09-10: PERF-1.4 covered.
+2026-09-10: PERF-1.5 covered.
