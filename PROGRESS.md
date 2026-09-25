@@ -74,3 +74,8 @@
 2026-09-24: PERF-2.5 covered.
 2026-09-24: PERF-2.6 covered.
 2026-09-24: PERF-2.7 covered.
+2026-09-25: GPU-4.4 covered.
+2026-09-25: GPU-4.5 covered.
+2026-09-25: GPU-4.6 covered.
+2026-09-25: GPU-4.7 covered.
+2026-09-25: GPU-4.8 covered.
