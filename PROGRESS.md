@@ -99,3 +99,8 @@
 2026-09-29: DIST-4.4 covered.
 2026-09-29: DIST-4.5 covered.
 2026-09-29: DIST-4.6 covered.
+2026-09-30: HPL-2.8 covered.
+2026-09-30: HPL-3.1 covered.
+2026-09-30: HPL-3.2 covered.
+2026-09-30: HPL-3.3 covered.
+2026-09-30: HPL-3.4 covered.
