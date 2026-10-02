@@ -109,3 +109,8 @@
 2026-10-01: PERF-3.2 covered.
 2026-10-01: PERF-3.3 covered.
 2026-10-01: PERF-3.4 covered.
+2026-10-02: GPU-5.2 covered.
+2026-10-02: GPU-5.3 covered.
+2026-10-02: GPU-5.4 covered.
+2026-10-02: GPU-5.5 covered.
+2026-10-02: GPU-5.6 covered.
