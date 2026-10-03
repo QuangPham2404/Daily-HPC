@@ -114,3 +114,8 @@
 2026-10-02: GPU-5.4 covered.
 2026-10-02: GPU-5.5 covered.
 2026-10-02: GPU-5.6 covered.
+2026-10-03: DIST-4.7 covered.
+2026-10-03: DIST-4.8 covered.
+2026-10-03: DIST-4.9 covered.
+2026-10-03: DIST-4.10 covered.
+2026-10-03: DIST-4.11 covered.
