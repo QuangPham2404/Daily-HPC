@@ -119,3 +119,8 @@
 2026-10-03: DIST-4.9 covered.
 2026-10-03: DIST-4.10 covered.
 2026-10-03: DIST-4.11 covered.
+2026-10-04: SYS-1.6 covered.
+2026-10-04: SYS-1.7 covered.
+2026-10-04: SYS-1.8 covered.
+2026-10-04: SYS-2.1 covered.
+2026-10-04: SYS-2.2 covered.
