@@ -124,3 +124,8 @@
 2026-10-04: SYS-1.8 covered.
 2026-10-04: SYS-2.1 covered.
 2026-10-04: SYS-2.2 covered.
+2026-10-05: GPU-5.7 covered.
+2026-10-05: GPU-6.1 covered.
+2026-10-05: GPU-6.2 covered.
+2026-10-05: GPU-6.3 covered.
+2026-10-05: GPU-6.4 covered.
