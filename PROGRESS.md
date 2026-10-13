@@ -144,3 +144,8 @@
 2026-10-08: PERF-3.7 covered.
 2026-10-08: PERF-3.8 covered.
 2026-10-08: PERF-4.1 covered.
+2026-10-13: DIST-5.6 covered.
+2026-10-13: DIST-5.7 covered.
+2026-10-13: DIST-5.8 covered.
+2026-10-13: DIST-5.9 covered.
+2026-10-13: DIST-6.1 covered.
