@@ -159,3 +159,8 @@
 2026-10-15: PERF-4.4 covered.
 2026-10-15: PERF-4.5 covered.
 2026-10-15: PERF-4.6 covered.
+2026-10-18: SYS-2.3 covered.
+2026-10-18: SYS-2.4 covered.
+2026-10-18: SYS-2.5 covered.
+2026-10-18: SYS-2.6 covered.
+2026-10-18: SYS-2.7 covered.
