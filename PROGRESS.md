@@ -183,3 +183,8 @@
 2026-10-23: GPU-6.6 covered.
 2026-10-23: GPU-6.7 covered.
 2026-10-23: GPU-6.8 covered.
+2026-10-26: GPU-7.1 covered.
+2026-10-26: GPU-7.2 covered.
+2026-10-26: GPU-7.3 covered.
+2026-10-26: GPU-7.4 covered.
+2026-10-26: GPU-7.5 covered.
