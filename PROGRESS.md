@@ -218,3 +218,8 @@
 2026-11-03: DIST-8.4 covered.
 2026-11-03: DIST-8.5 covered.
 2026-11-03: DIST-8.6 covered.
+2026-11-04: HPL-5.5 covered.
+2026-11-04: HPL-5.6 covered.
+2026-11-04: HPL-5.7 covered.
+2026-11-04: HPL-6.1 covered.
+2026-11-04: HPL-6.2 covered.
