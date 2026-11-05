@@ -223,3 +223,8 @@
 2026-11-04: HPL-5.7 covered.
 2026-11-04: HPL-6.1 covered.
 2026-11-04: HPL-6.2 covered.
+2026-11-05: PERF-6.2 covered.
+2026-11-05: PERF-6.3 covered.
+2026-11-05: PERF-6.4 covered.
+2026-11-05: PERF-6.5 covered.
+2026-11-05: PERF-6.6 covered.
